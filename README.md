@@ -1,2 +1,2 @@
 # warlock
-a simple gate way server
+a simple gateway server
